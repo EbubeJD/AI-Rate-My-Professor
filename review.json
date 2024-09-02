@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. John Smith",
+        "subject": "Computer Science",
+        "stars": 4,
+        "review": "Great professor, explains concepts clearly. Sometimes assignments can be a bit tough."
+      },
+      {
+        "professor": "Dr. Alice Johnson",
+        "subject": "Mathematics",
+        "stars": 5,
+        "review": "Amazing lectures, very helpful during office hours. Exams are fair."
+      },
+      {
+        "professor": "Dr. Robert Brown",
+        "subject": "Physics",
+        "stars": 3,
+        "review": "Content is interesting but lectures can be dry. Make sure to study the textbook."
+      },
+      {
+        "professor": "Dr. Emily Davis",
+        "subject": "Chemistry",
+        "stars": 5,
+        "review": "Engaging lectures and provides plenty of resources to help students succeed."
+      },
+      {
+        "professor": "Dr. Michael Miller",
+        "subject": "Biology",
+        "stars": 2,
+        "review": "Lectures are disorganized and the exams are way too difficult."
+      },
+      {
+        "professor": "Dr. Sarah Wilson",
+        "subject": "English Literature",
+        "stars": 4,
+        "review": "Very passionate about the subject, but expects a lot from students."
+      },
+      {
+        "professor": "Dr. William Taylor",
+        "subject": "History",
+        "stars": 3,
+        "review": "Lectures are informative but can be a bit slow. Participation is key."
+      },
+      {
+        "professor": "Dr. Linda Anderson",
+        "subject": "Psychology",
+        "stars": 5,
+        "review": "Fantastic professor, very approachable and cares about students' understanding."
+      },
+      {
+        "professor": "Dr. James Thomas",
+        "subject": "Economics",
+        "stars": 4,
+        "review": "Lectures are clear, but you need to stay on top of the readings to do well."
+      },
+      {
+        "professor": "Dr. Karen Martinez",
+        "subject": "Political Science",
+        "stars": 3,
+        "review": "Interesting material but grading can be harsh. Participation is important."
+      },
+      {
+        "professor": "Dr. Charles Jackson",
+        "subject": "Sociology",
+        "stars": 5,
+        "review": "Super engaging and really brings the subject to life. Highly recommend."
+      },
+      {
+        "professor": "Dr. Patricia White",
+        "subject": "Philosophy",
+        "stars": 2,
+        "review": "Difficult to follow in lectures, but office hours are helpful."
+      },
+      {
+        "professor": "Dr. Richard Harris",
+        "subject": "Art History",
+        "stars": 4,
+        "review": "Interesting lectures with lots of visuals. Be prepared for a lot of reading."
+      },
+      {
+        "professor": "Dr. Jennifer Clark",
+        "subject": "Music Theory",
+        "stars": 5,
+        "review": "Wonderful professor who is very passionate about music. Very supportive."
+      },
+      {
+        "professor": "Dr. Steven Lewis",
+        "subject": "Environmental Science",
+        "stars": 3,
+        "review": "Content is good, but lectures can be a bit dry. Exams are fair though."
+      },
+      {
+        "professor": "Dr. Barbara Young",
+        "subject": "Anthropology",
+        "stars": 4,
+        "review": "Great professor, really knowledgeable. Can be tough, but worth it."
+      },
+      {
+        "professor": "Dr. Christopher King",
+        "subject": "Computer Engineering",
+        "stars": 2,
+        "review": "Not the best at explaining complex concepts. Labs are a bit chaotic."
+      },
+      {
+        "professor": "Dr. Laura Scott",
+        "subject": "Business Management",
+        "stars": 5,
+        "review": "Amazing professor with real-world experience. Very engaging lectures."
+      },
+      {
+        "professor": "Dr. Brian Green",
+        "subject": "Statistics",
+        "stars": 3,
+        "review": "Good professor, but you need to put in the work to understand the material."
+      },
+      {
+        "professor": "Dr. Nancy Hall",
+        "subject": "Education",
+        "stars": 4,
+        "review": "Very knowledgeable and passionate. Lectures are engaging and informative."
+      }
+    ]
+  }
+  
